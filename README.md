@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Maicarons 2022
-- A tranlator and i18n-manager
+- A tranlator(i18n-manager), programmer & student
 - Love Golang best
 - Hope to meet you!
